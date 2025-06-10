@@ -1,0 +1,3 @@
+﻿  puzzle.cpp
+D:\VSproject\PuzzleGame\puzzle.cpp(327,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  PuzzleGame.vcxproj -> D:\VSproject\PuzzleGame\x64\Debug\PuzzleGame.exe
